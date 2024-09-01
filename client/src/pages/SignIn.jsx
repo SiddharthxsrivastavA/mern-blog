@@ -53,8 +53,7 @@ export default function SignIn() {
             Blog
           </Link>
           <p className='text-sm mt-5'>
-            This is a demo project. You can sign in with your email and password
-            or with Google.
+            This is a demo project. You can sign in with your email and password.
           </p>
         </div>
         {/* right */}
